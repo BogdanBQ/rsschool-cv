@@ -2,7 +2,7 @@
 
 **Bogdan**  
 Email: bpechesky@gmail.com  
-Phone: +7(777)7777777 
+Phone: +7(777)7777777  
 GitHub: [github.com/BogdanBQ](https://github.com/BogdanBQ)  
 Discord: @bogdasha
 
